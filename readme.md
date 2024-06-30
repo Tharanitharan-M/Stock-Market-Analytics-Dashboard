@@ -24,7 +24,7 @@ This project implements an interactive dashboard using Dash to visualize stock m
 1. Clone the repository:
 
 ```bash
-   git clone 
+   git clone https://github.com/Tharanitharan-M/Stock-Market-Analytics-Dashboard
 ```
 
 2. Install the required Python packages:
