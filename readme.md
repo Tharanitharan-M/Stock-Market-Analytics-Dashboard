@@ -41,6 +41,18 @@ python app.py
 
 4. Open your web browser and go to `http://127.0.0.1:8050/` to view the dashboard.
 
+## Application Screenshots
+
+### Dashboard View
+
+![Dashboard View](screenshots/dashboard.png)
+
+### Charts
+
+![Volume and Candlestick Chart](screenshots/volume%20+%20candlestick.png)
+![Bollinger and MACD Chart](screenshots/bollinger%20+%20MACD.png)
+![Profit Margin and P/E Ratio](screenshots/Profit%20Margin%20+%20PE%20ratio.png)
+
 ## Usage
 
 - Select a company from the dropdown menu to view its stock data.
